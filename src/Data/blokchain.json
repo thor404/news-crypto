@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "type" : "Blockchain",
+        "title" : "Crypto Comedians Question Queen's Bitcoin Interest",
+        "img" : "https://demo.tagdiv.com/newspaper_crypto_news_pro/wp-content/uploads/2021/06/6-1068x700.jpg",
+        "auth" : "CRISTOPHER - AUG 6, 2021"
+    },
+    {
+        "id": 2,
+        "type" : "Blockchain",
+        "title" : "New Platform Gives Whiskey Fans a Boozy Blockchain Boost",
+        "img" : "https://demo.tagdiv.com/newspaper_crypto_news_pro/wp-content/uploads/2021/06/4-1068x714.jpg",
+        "auth" : "CRISTOPHER - AUG 6, 2021"
+    },
+    {
+        "id": 3,
+        "type" : "Blockchain",
+        "title" : "New Platform Gives Whiskey Fans a Boozy Blockchain Boost",
+        "img" : "https://demo.tagdiv.com/newspaper_crypto_news_pro/wp-content/uploads/2021/06/4-1068x714.jpg",
+        "auth" : "CRISTOPHER - AUG 6, 2021"
+    },
+    {
+        "id": 4,
+        "type" : "Blockchain",
+        "title" : "South Korean Local Stablecoins Set for Another Boost",
+        "img" : "https://demo.tagdiv.com/newspaper_crypto_news_pro/wp-content/uploads/2021/06/3-1068x713.jpg",
+        "auth" : "CRISTOPHER - AUG 6, 2021"
+    },
+    {
+        "id": 5,
+        "type" : "Blockchain",
+        "title" : "Ethereum Alternative Solana Gets USD 40M Boost",
+        "img" : "https://demo.tagdiv.com/newspaper_crypto_news_pro/wp-content/uploads/2021/06/2-1068x712.jpg",
+        "auth" : "CRISTOPHER - AUG 6, 2021"
+    }
+]

@@ -1,25 +1,31 @@
-import logo from './logo.svg';
 import './App.css';
+import Head from './Components/Head/Head';
+import Nav from './Components/Nav/Nav';
+import 'bootstrap/dist/css/bootstrap.min.css';
+import Featured from './Components/Featured/Featured';
+import BlockChain from './Components/BlockChain/BlockChain';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <>
+      <section className="top-nav">
+        <Nav></Nav>
+      </section>
+      <section className="hero-sec">
+        <Head></Head>
+      </section>
+      <section className="featu-sec">
+        <Featured></Featured>
+      </section>
+      <section>
+        <BlockChain></BlockChain>
+        
+      </section>
+    </>
   );
 }
+
+
+
 
 export default App;

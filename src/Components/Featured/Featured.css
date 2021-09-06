@@ -1,0 +1,135 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+#feature-bg {
+    background-color: #212025;
+}
+
+.feature-container {
+    width: 80%;
+    margin: auto;
+}
+
+.featured-sec {
+    padding-bottom: 5%;
+}
+
+
+
+.fea-txt {
+    padding-top: 6%;
+    padding-bottom: 1%;
+}
+
+.fea-txt h3 {
+    color: lightgray;
+}
+
+
+.featured-area {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-gap: 30px;
+}
+
+/* .fea-card-wrap {
+    border: 1.5px solid lightgray;
+} */
+
+.fea-card-body{
+    display: flex;
+    width: 100%;
+    align-items: center;
+    border: 2px solid #353535;
+    border-radius: 12px;
+    margin: 20px 0px;   
+}
+
+.crd-l3f img {
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+    border-radius: 12px 0px 0px 12px;
+}
+
+.crd-rig {
+    padding: 0px 20px;
+}
+
+.crd-rig h4 {
+    color: #10BF6B;
+    font-size: 13px;
+}
+
+.crd-rig a {
+    text-decoration: none;
+    font-size: 16pt;
+    color: #fff;
+}
+.crd-rig a:hover{ 
+    color: #10BF6B;
+}
+
+.crd-rig p {
+    color: lightgray;
+    padding-top: 3%;
+    font-size: 12px;
+}
+
+.grn {
+    color: #10BF6B;
+    font-size: 12px;
+}
+.lgr {
+    color: lightgray;
+    font-size: 12px;
+    padding-top: 2%;
+}
+
+.blk {
+    color: #212025;
+}
+
+.rig-img-wrap {
+    background-image: url(../../img/feature-4.jpg);
+    padding-top: 59%;
+    margin-top: 20px;
+    padding-bottom: 3%;
+    border-radius: 10px;
+}
+.nft-card {
+    background-color: #212025;
+    margin: 0px 20px;
+    padding: 30px;
+    border-radius: 10px;
+}
+
+.nft-card a{
+    text-decoration: none;
+    color: #fff;
+    font-size: 16pt;
+}
+
+.nft-card a:hover {
+    color: #10BF6B;
+}
+
+.exc {
+    background-color: red;
+    padding: 5px 10px;
+    border-radius: 6px;
+    font-size: 12px;
+}
+
+/* another last section */
+
+.lvlup {
+    background-color: #212025;
+}
+.lvl-container {
+    width:80%;
+    margin: auto;
+    padding-bottom: 5%;
+}
